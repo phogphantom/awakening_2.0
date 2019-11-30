@@ -1,6 +1,5 @@
-#Thomas Standley
 #AWAKENING
-#Final project
+#dialogue only
 #This file is strictly for the dialouge part of the game. The main game code will have import dialogue. 
 #All the variables will be arguments for the display_text function
 
