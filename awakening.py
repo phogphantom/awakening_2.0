@@ -1,6 +1,4 @@
-#INF360 -  Programming in Python
-#Thomas Standley
-#Final Project 
+#coded by phogphantom
 #AWAKENING
 
 #This program is a text adventure game about a person waking up and not knowing where they are or how they got there. 
